@@ -32,6 +32,7 @@
                 ['You play an elderly person.'],
                 ['Your character is an outcast.'],
                 ['You are an orphan.'],
+                ['You don\'t know what\'s real and what isn\'t'],
                 ['You are not always in control of your character.'],
             ]
             this.twist = twists[Math.floor(Math.random() * twists.length)][0]
