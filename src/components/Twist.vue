@@ -24,6 +24,14 @@
                 ['Your best friend betrays you.'],
                 ['You fall in love with the antagonist.'],
                 ['You can control time.'],
+                ['Set in the 1930\'s.'],
+                ['Set in the 60\'s.'],
+                ['Set in the 70\'s.'],
+                ['Set in the 80\'s.'],
+                ['Set in the 90\'s.'],
+                ['You play an elderly person.'],
+                ['Your character is an outcast.'],
+                ['You are an orphan.'],
                 ['You are not always in control of your character.'],
             ]
             this.twist = twists[Math.floor(Math.random() * twists.length)][0]
