@@ -1,5 +1,5 @@
-# Game Idea Generator
-A game idea generator that uses Vue to randomly generate game ideas via the click of a button.
+# Movie plot Generator
+A movie-plot generator that uses Vue to randomly generate movie plots via the click of a button.
 
 
 ![Screenshot](screenshot.png)
