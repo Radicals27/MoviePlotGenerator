@@ -1,19 +1,17 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/background.png">
-    <GameIdea idea="Click the button for a new idea!"/>
-    <GameTwist twist=""/>
+    <img alt="Vue logo" src="./assets/image.png">
+    <MovieIdea idea="Click the button for a new idea!"/>
   </div>
 </template>
 
 <script>
-import GameIdea from './components/Idea.vue'
-import GameTwist from './components/Twist.vue'
+import MovieIdea from './components/Idea.vue'
 
 export default {
   name: 'App',
   components: {
-    GameIdea, GameTwist
+    MovieIdea
   }
 }
 </script>
@@ -21,7 +19,7 @@ export default {
 <style>
  @import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
 body {
-    background-color: rgb(78, 81, 230);
+    background-color: rgb(219, 219, 219);
 }
 
 img {
