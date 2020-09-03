@@ -16,4 +16,4 @@ To set up packages & run the page locally.
 
 Live page:
 
-https://radicals27.github.io/plotGenerator/
+https://radicals27.github.io/MoviePlotGenerator/
